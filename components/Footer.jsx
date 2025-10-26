@@ -39,7 +39,7 @@ const Footer = () => {
           </a>
 
           <a 
-            href="https://x.com/yourusername"
+            href=""
             target="_blank" 
             rel="noopener noreferrer"
             className="w-10 h-10 flex items-center justify-center rounded-full border border-gray-600 hover:border-sky-400 hover:bg-sky-500/10 duration-300"
