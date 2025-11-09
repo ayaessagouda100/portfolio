@@ -3,6 +3,7 @@ import Image from 'next/image'
 import React from 'react'
 import { motion } from "motion/react"
 
+
 const Work = () => {
   return (
     <motion.div
@@ -40,9 +41,9 @@ const Work = () => {
                     <h2 className='font-semibold'>{project.title}</h2>
                     <p className='text-sm text-gray-700'>{project.description}</p>
                 </div>
-                <div className=' rounded-full w-9 aspect-square flex items-center justify-center  transition '>
+                <a href={project.link} target='_blank' className=' rounded-full w-9 aspect-square flex items-center justify-center  transition '>
                     <Image src={assets.send_icon} className='w-5 ' alt='send icon'/>
-                </div>
+                </a>
                 </div>
             </motion.div>
         ))}

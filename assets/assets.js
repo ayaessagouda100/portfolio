@@ -113,16 +113,19 @@ export const workData = [
         title: 'EzyShop website',
         description: 'Modern E-Commerce Website (Next.js, React, TypeScript)',
         bgImage: '/work-1.png',
+        link: 'https://ezy-shop-e-commerce.vercel.app/'
     },
     {
         title: 'Chatify',
         description: 'A social media platform built with React and Vite.',
         bgImage: '/work-2.png',
+        link: '#'
     },
     {
         title: 'Live Weather App',
         description: 'Real-time weather display application.',
         bgImage: '/work-3.png',
+        link: 'https://ayaessagouda100.github.io/Weather/#'
     },
     
 ]
