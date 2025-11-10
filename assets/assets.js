@@ -129,7 +129,7 @@ export const workData = [
     },
     {
         title: 'Quote of the Day',
-        description: 'A random quote generator using HTML, CSS, and JavaScript.',
+        description: 'A random quote generator using HTML, CSS, and JS.',
         bgImage: '/work-4.png',
         link: 'https://ayaessagouda100.github.io/quote-JS/'
     },
