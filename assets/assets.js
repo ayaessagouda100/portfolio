@@ -129,7 +129,7 @@ export const workData = [
     },
     {
         title: 'Quote of the Day',
-        description: 'A simple app that generates random quotes. Built using HTML, CSS, and JavaScript',
+        description: 'A random quote generator using HTML, CSS, and JavaScript.',
         bgImage: '/work-4.png',
         link: 'https://ayaessagouda100.github.io/quote-JS/'
     },
@@ -137,7 +137,7 @@ export const workData = [
         title: 'Bakery Website',
         description: 'A responsive bakery website built only with HTML and CSS.',
         bgImage: '/work-5.png',
-        link: '#'
+        link: 'https://ayaessagouda100.github.io/Bakery/'
     },
     
 ]
