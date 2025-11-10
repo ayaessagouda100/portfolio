@@ -32,7 +32,7 @@ const Work = () => {
     className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 my-10 gap-5'>
         {workData.map((project, index)=>(
             <motion.div
-            whileHover={{scale: 1.01}}
+            whileHover={{scale: 1.05}}
             transition={{duration: 0.3}}
             key={index}
             className='aspect-square bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group' style={{backgroundImage: `url(${project.bgImage})`}}>
