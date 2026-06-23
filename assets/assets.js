@@ -119,7 +119,7 @@ export const workData = [
         title: 'Chatify',
         description: 'A social media platform built with React and Vite.',
         bgImage: '/work-2.png',
-        link: '#'
+        link: 'https://social-media-alpha-six.vercel.app/login'
     },
     {
         title: 'Live Weather App',
